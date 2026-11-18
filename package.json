@@ -1,0 +1,11 @@
+{
+  "name": "log-sampling-controller",
+  "version": "1.0.0",
+  "description": "Biased log sampling controller with error retention, noise budgets and service fairness",
+  "type": "commonjs",
+  "main": "src/sampler.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
